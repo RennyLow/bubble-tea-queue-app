@@ -1,1 +1,0 @@
-<resources><style name="Theme.BubbleTeaQueue" parent="android:style/Theme.Material.Light.NoActionBar"><item name="android:fontFamily">sans</item><item name="android:colorAccent">#75412D</item><item name="android:navigationBarColor">#FFF8EF</item><item name="android:statusBarColor">#75412D</item><item name="android:windowLightStatusBar">false</item></style></resources>
